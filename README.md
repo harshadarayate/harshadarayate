@@ -5,7 +5,7 @@ I'm an Aspiring Engineer and a passionate Tech Explorer based in Pune, India. I 
 ---
 
 - 👯 I’m looking to collaborate on **open-source projects.**.
-- 📫 How to reach me: **https://www.linkedin.com/in/harshadarayate**
+- 📫 How to reach me: **https://www.linkedin.com/in/harshada-rayate/**
 
 ---
 
