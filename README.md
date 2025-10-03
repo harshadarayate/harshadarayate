@@ -1,6 +1,6 @@
-### Hi there, I'm Harshadā 👋
+## Hi there, I'm Harshadā 👋
 
-I'm an Aspiring Engineer, a passionate Tech Explorer, and an open source contributor based in Pune, India. I enjoy building useful applications and I'm always eager to learn new technologies and frameworks.
+### I'm an Aspiring Engineer, a passionate Tech Explorer, and an open source contributor based in Pune, India. I enjoy building useful applications and I'm always eager to learn new technologies and frameworks.
 ---
 
 - 👯 I’m looking to collaborate on **open-source projects.**.
