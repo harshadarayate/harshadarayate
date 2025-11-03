@@ -33,4 +33,6 @@
 <a href="https://www.linkedin.com/in/harshada-rayate/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+---
+
 [![An image of @harshadarayate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshadarayate)](https://holopin.io/@harshadarayate)
