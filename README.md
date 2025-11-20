@@ -8,6 +8,10 @@
 
 ---
 
+[![An image of @harshadarayate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshadarayate)](https://holopin.io/@harshadarayate)
+
+---
+
 ### 🛠️ My Tech Stack
 
 <p align="left">
@@ -34,5 +38,3 @@
 </p>
 
 ---
-
-[![An image of @harshadarayate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshadarayate)](https://holopin.io/@harshadarayate)
